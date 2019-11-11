@@ -121,7 +121,7 @@ public class EspecialistaDao {
             return "contraseña cambiaba";
 
         }
-        return null;
+        return "no";
     }
 
     //RECUPERAR CONTRASEÑA
